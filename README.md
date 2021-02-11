@@ -24,3 +24,14 @@ This notebook is formulated as a baseline framework in non-real-time training an
 1) Modify to improve any applied technique in any stage, e.g. preprocessing, feature extraction, classification. 
 2) Propose your own implementations to replace the original technique, which might lead to an amazing improvement.
 3) Assemble elements into a real-time recognition system and play with it.
+
+### Environment Requirements
+
+It is recommended that you run this project in a virtual environment. A good virtual
+environment manager is Anaconda: https://anaconda.org/
+Python 3.6 is a must-have to conduct this project.
+
+In your Python 3.6 environment or machine, from the route directory of where you
+cloned this project, install the required packages by running::
+
+    $ python -m pip install -r requirements.txt
