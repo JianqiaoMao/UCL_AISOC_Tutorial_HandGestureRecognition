@@ -40,3 +40,5 @@ In your Python 3.6 environment or machine, from the root directory of where you
 cloned this project, install the required packages by running::
 
     $ python -m pip install -r requirements.txt
+
+Note that if errors report any lack of module, please apply `$ pip install <module name>` to install dependent packages.
