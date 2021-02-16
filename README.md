@@ -41,4 +41,4 @@ cloned this project, install the required packages by running::
 
     $ python -m pip install -r requirements.txt
 
-Note that if errors report any lack of module, please apply `$ pip install <module name>` to install dependent packages.
+Note that if errors report any lack of module, please apply `$ pip install <module name>` to install dependent packages, e.g. tensorflow, keras, hmmlearn.
